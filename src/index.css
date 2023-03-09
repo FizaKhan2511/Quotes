@@ -1,0 +1,8 @@
+/*c'est la que je dois taper le tailwind*/
+/*https://tailwindcss.com/docs/guides/vite*/
+/*suivre les étapes d'installation sur ce lien*/
+/*pour executer c'est npm run dev*/
+/*http://localhost:5174/*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
